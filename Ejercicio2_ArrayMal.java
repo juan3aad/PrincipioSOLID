@@ -1,4 +1,4 @@
-public class Ejercicio3_ArrayMal {
+public class Ejercicio2_ArrayMal {
     public static void main(String[] args) {
         String[] fruit = initializeFruit();
         printFruit(fruit);

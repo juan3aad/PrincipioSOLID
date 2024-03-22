@@ -1,4 +1,4 @@
-public class Ejercicio4_ArrayBien {
+public class Ejercicio2_ArrayBien {
 
     public class Main {
         public static void main(String[] args) {

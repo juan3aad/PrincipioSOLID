@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class Main {
+public class Ejercicio1_Bien {
     public static void main(String[] args) {
         // Archivos a evaluar
         FileStatus[] fileStatuses = {
